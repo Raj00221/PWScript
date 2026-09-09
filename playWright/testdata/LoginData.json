@@ -1,0 +1,40 @@
+[
+    {
+        "label":" right credentials",
+        "username":"admin",
+        "password":"yadav1707",
+        "status":"valid"
+
+    },
+    {
+        "label":" wrong username",
+        "username":"rahul",
+        "password":"yadav1707",
+        "status":"invalid"
+
+
+    },
+    {
+        "label":" wrong password",
+        "username":"admin",
+        "password":"abcdef",
+        "status":"invalid"
+
+    },
+    {
+        "label":" blank username",
+        "username":"",
+        "password":"yadav1707",
+        "status":"invalid"
+
+    },
+    {
+        "label":" blank password",
+        "username":"admin",
+        "password":"",
+        "status":"invalid"
+
+    }
+  ]  
+
+

@@ -1,0 +1,19 @@
+{
+
+    "login":{
+        "username":"admin",
+        "password":"yadav1707"
+
+    },
+
+    "createLeadData" : {
+        "firstName" : "Rahul",
+        "lastName" : "Yadav",
+        "title" : "Mr.",
+        "company" : "svam",
+        "phone":"9876543210"
+
+    } 
+
+
+}
